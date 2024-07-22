@@ -6,6 +6,9 @@ Raspberry Pi 5 8GB
 
 ## Quick Installation
 
+For the most up to date guide and detailed instructions, go here https://docs.google.com/document/d/1IDkR-tbgngC3c4e2qKCqgqcCxsmayxmprr62sG7MYJM/edit?usp=sharing
+
+## Barebones Installation
 Install the latest version of Raspberry Pi OS (64 Bit) to a micro SD card using the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). [More Details](https://www.raspberrypi.com/documentation/computers/getting-started.html#install-using-imager)
 
 Connect a USB keyboard, USB mouse, and HDMI monitor to the Pi.
